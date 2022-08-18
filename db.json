@@ -1,34 +1,14 @@
 {
-  "data": [
+  "employees": [
     {
-      "country": "India",
-      "city": "Pune",
-      "population": "11234567",
-      "id": 2
-    },
-    {
-      "country": "America",
-      "city": "New York",
-      "population": "1234565",
-      "id": 6
-    },
-    {
-      "country": "Japan",
-      "city": "Tokyo",
-      "population": "123454",
-      "id": 7
-    },
-    {
-      "country": "India",
-      "city": "Bangalore",
-      "population": "12345",
-      "id": 9
-    },
-    {
-      "country": "America",
-      "city": "DC",
-      "population": "123432",
-      "id": 10
+      "name": "om",
+      "age": "20",
+      "gender": "male",
+      "department": "cs",
+      "mobile": "9087654321",
+      "salary": "10000000",
+      "imageURL": "https://via.placeholder.com/250x300",
+      "id": 11
     }
   ]
 }
