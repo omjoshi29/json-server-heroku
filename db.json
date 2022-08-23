@@ -10,5 +10,12 @@
       "imageURL": "https://via.placeholder.com/250x300",
       "id": 11
     }
+  ],
+  "mbsignup": [
+    {
+      "name": "omi",
+      "email": "omi@gmail.com",
+      "password": "omi123456"
+    }
   ]
 }
