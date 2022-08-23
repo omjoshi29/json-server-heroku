@@ -15,7 +15,8 @@
     {
       "name": "omi",
       "email": "omi@gmail.com",
-      "password": "omi123456"
+      "password": "omi123456",
+      "id": 987654321
     }
   ]
 }
